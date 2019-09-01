@@ -1,3 +1,5 @@
+> 참고 https://github.com/kulshekhar/ts-jest
+
 ### 세팅 과정
 #### 1. 설치
 ```
